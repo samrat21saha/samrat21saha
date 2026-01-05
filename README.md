@@ -6,7 +6,7 @@
 
 Email Me 👉 ✉️ **samrat.saha.java@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Node.js Backend projects
+- 🔭 **I’m currently working on:** Node.js, FastAPI, SpringBoot Backend projects
 - 🌱 **I’m currently learning:** Backend Development
 - 👯 **I’m looking to collaborate on:** Backend heavy open source projects
 - 🤔 **I’m looking for help with:** Your project here
