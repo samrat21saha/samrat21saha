@@ -1,7 +1,10 @@
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=363536&center=true&vCenter=true&width=940&lines=Hey%2C+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Dipesh and Welcome to my Profile! animated typed out" width="100%"/>
+
+<!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/02dcb57f-6e21-4d62-a463-9943ff638215" />
+
 # 💫 Hi 👋, I'm Samrat Saha
 **A passionate Backend Developer || Software Engineer from India**
-
-![212746035-d5c61762-973c-44c0-aec7-887f3b7690e3](https://github.com/user-attachments/assets/02dcb57f-6e21-4d62-a463-9943ff638215)
 
 
 Email Me 👉 ✉️ **samrat.saha.java@gmail.com** For Collaboration/Project or Anything Else. 😊😊
